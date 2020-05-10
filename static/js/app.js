@@ -33,6 +33,7 @@ function searchButton(search) {
 };
 buildTable();
   }
+
 function reset() {
   tableData = data;
   $dateInput.value = "";
